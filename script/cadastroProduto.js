@@ -93,6 +93,8 @@ function excluirProduto(id) {
     if (linha) {
         linha.remove(); 
     }
+
+    renderProdutos();
 }
 
 
