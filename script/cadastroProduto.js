@@ -5,7 +5,7 @@ let imgProduto = document.getElementById('img');
 let produtos = [];
 let id = 1;
 
-
+//teste
 function validarDados() {
     event.preventDefault();
 
